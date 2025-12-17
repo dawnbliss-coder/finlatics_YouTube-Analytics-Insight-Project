@@ -6,6 +6,17 @@ A perfect dataset for aspiring content creators, data analysts, and anyone curio
 
 ---
 
+## 🛠️ Technologies Used
+
+- **Python** - Core programming language
+- **Pandas** - Data manipulation and analysis
+- **NumPy** - Numerical computing
+- **Matplotlib & Seaborn** - Data visualization
+- **Jupyter Notebook** - Interactive development environment
+
+## Install dependencies
+- **pip install pandas numpy matplotlib seaborn jupyter
+
 ## 📁 Dataset Overview
 
 This dataset contains 1000+ YouTube channels with attributes such as:
