@@ -1,4 +1,4 @@
-# 📊 YouTube Data Analysis Project
+# YouTube Data Analysis Project
 
 This project explores a dataset of the **top YouTube channels across the world**, offering insights into what drives success on the platform. With detailed information on subscriber counts, views, earnings, upload frequency, country demographics, and channel metadata, this project provides a comprehensive look at YouTube’s biggest creators.
 
@@ -6,7 +6,7 @@ A perfect dataset for aspiring content creators, data analysts, and anyone curio
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python** - Core programming language
 - **Pandas** - Data manipulation and analysis
@@ -17,7 +17,7 @@ A perfect dataset for aspiring content creators, data analysts, and anyone curio
 ## Install dependencies
 - **pip install pandas numpy matplotlib seaborn jupyter
 
-## 📁 Dataset Overview
+## Dataset Overview
 
 This dataset contains 1000+ YouTube channels with attributes such as:
 
@@ -38,7 +38,7 @@ This dataset contains 1000+ YouTube channels with attributes such as:
 
 ---
 
-## 🧹 Data Preprocessing
+## Data Preprocessing
 
 To ensure accurate analysis, the dataset was cleaned through:
 
@@ -51,7 +51,7 @@ To ensure accurate analysis, the dataset was cleaned through:
 
 ---
 
-## 🔎 Key Analytical Questions
+## Key Analytical Questions
 
 This project answers several important questions, including:
 
@@ -83,7 +83,7 @@ This project answers several important questions, including:
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 To uncover meaningful insights about YouTube success by examining creator metrics, category behavior, geographic influences, and economic context. The project provides a holistic view of digital content creation and global YouTube trends.
 
